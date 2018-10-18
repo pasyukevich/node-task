@@ -1,0 +1,13 @@
+{
+  "serverConfig": {
+    "port": 3000
+  },
+  "dbConfig": {
+    "url": "mongodb://localhost/CRMdb"
+  },
+  "timerConfig": {
+    "minDelay": 500,
+    "delayAfterError": 3000,
+    "delayForUpdate": 3600000
+  }
+}

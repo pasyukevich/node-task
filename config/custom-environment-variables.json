@@ -1,0 +1,8 @@
+{
+  "serverConfig": {
+    "port": "PORT"
+  },
+  "dbConfig": {
+    "url": "DATABASE_URL"
+  }
+}
